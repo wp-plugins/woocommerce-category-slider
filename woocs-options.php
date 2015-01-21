@@ -65,7 +65,7 @@ function woocs_show_options(){ ?>
 						  	<div style="width:470px; margin:0px auto;"><a href="http://www.gvectors.com/woocommerce-category-slider/"><img src="<?php echo WOOCS_PATH ?>styles/images/gc/0.png" title="" style="padding:0px; width:469px" /></a></div>
 						  	<div style="padding:10px;">
 								<p style="padding:0px; margin:0px; text-align:center; color:#CC3300; font-size:24px; font-family:Georgia, 'Times New Roman', Times, serif;">
-									Get More! 3 Awesome Slider Layouts!
+									Get More! +3 Awesome Slider Layouts!
 								</p>
 								<p style="padding:0px; margin:0px; padding-bottom:15px; text-align:center;">
 									<a href="http://www.gvectors.com/woocommerce-category-slider/" style="text-decoration:none;">
