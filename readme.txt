@@ -1,6 +1,6 @@
 === WooCommerce Category Slider ===
 
-Contributors: gVectors Team (A. Chakhoyan, N. Nahapetyan)
+Contributors: gVectors Team
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QGLW68L3K9G5E
 Tags: slider, WooCommerce category slider, WooCommerce, WooCommerce category, WooCommerce product category, product category, category, subcategory, category slider, subcategory slider, product slider, featured products slider, featured products, best sale, bestselling, top rated product, category image, category description, category products.
 Requires at least: 2.7.0
